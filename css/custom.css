@@ -1,0 +1,41 @@
+/* 
+	JC Ricaro
+	2012
+*/
+
+.btnlogin {
+	height:62px;
+}
+
+.login input {
+	margin:0px;
+}
+
+.login {
+	margin-top:70px;
+	margin-bottom:50px;
+	-moz-box-shadow: 0px 1px 7px #333;
+	-webkit-box-shadow: 0px 1px 7px #333;
+	box-shadow: 0px 1px 7px #333;
+	-moz-border-radius:25px;
+	-webkit-border-radius:25px;
+	border-radius:25px;
+	border:1px solid #ccc;
+	padding-top:10px;
+	padding-left:20px;
+	padding-right:20px;
+	text-align: center;
+	width:250px;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.login h3 {
+	padding-bottom:0px;
+	margin-bottom:0px;
+}
+
+.login hr {
+	padding:0px;
+	margin-top:0px;
+}

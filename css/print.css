@@ -1,0 +1,9 @@
+body {visibility:hidden;
+}
+.print {
+	visibility:visible;
+	display:block;
+}
+.page-header {
+	display:none;
+}
